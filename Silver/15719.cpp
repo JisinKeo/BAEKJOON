@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-    cin.tie(0);
-    ios_base::sync_with_stdio(0);
+    cin.tie(0); #c++에서 실행속도를 빠르게 해주는 코드
+    ios_base::sync_with_stdio(0); #c++에서 실행속도를 빠르게 해주는 코드
     int n;
     
     int sum = 0;

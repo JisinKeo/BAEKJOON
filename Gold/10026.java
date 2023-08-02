@@ -3,7 +3,7 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
 
-class Mainn {
+class Main {
 
     static int n, count, acount;
     static char[][] picture;
